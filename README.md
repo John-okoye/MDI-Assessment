@@ -15,9 +15,7 @@ The SQL queries used for data extraction and analysis can be found in the `SQL S
 
 I've created an interactive dashboard using Power BI to visualize the key insights from the data.
 
-**[View Tableau Dashboard](https://public.tableau.com/views/your_tableau_link_here)**  
-**[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWVkOTk2ZDktYzNhMy00Y2FlLWJlOWYtM2M2ZDUzYzQ3ODNmIiwidCI6IjVkNGJmZjEzLTY5YjItNDAzMy1iODI3LTQzODRmNzAxZDRkNiJ9)**
-
+**[View Tableau Dashboard](https://public.tableau.com/views/HRDashboard_17198020136490/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**  
 
 ## Additional Notes
 
