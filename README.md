@@ -18,4 +18,4 @@ I've created an interactive dashboard using Tableau to visualize the key insight
 
 ## Additional Notes
 
-Thank you for reviewing my submission. I'm looking forward to discussing these analyses in more detail.
+Thank you for reviewing my submission. I'm looking forward to discussing these analysis in more detail.
