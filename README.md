@@ -1,5 +1,4 @@
-# MDI-Assessment
-# Data Analysis Interview Task Submission
+# Data Analysis Task Submission
 
 This repository contains my submission for the data analysis task, including SQL queries and links to interactive dashboards.
 
