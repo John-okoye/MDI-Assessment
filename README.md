@@ -1,6 +1,6 @@
 # Task Submission
 
-This repository contains my submission for the data analysis task, including SQL queries and links to interactive dashboards.
+This repository contains my submission for the data analysis task, including SQL queries and link to interactive dashboard.
 
 ## Contents
 
